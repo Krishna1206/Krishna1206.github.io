@@ -4,7 +4,7 @@ HTML_Website
   <title>aar</title>
   <body>
     <h1>what is tuple</h1>
-    <p><marquee bgcolor="red">Tuple is a container it holds many objects under a single name</p>
+    <p><marquee bgcolor="red">Tuple is a container it holds many objects under a single name</marquee></p>
       <form>
   <label for="fname">First name:</label><br>
   <input type="text" id="fname" name="fname" value="John"><br>
